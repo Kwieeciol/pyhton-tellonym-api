@@ -1,7 +1,0 @@
-README.md
-setup.py
-pyhton_tellonym_api_PatchByte.egg-info/PKG-INFO
-pyhton_tellonym_api_PatchByte.egg-info/SOURCES.txt
-pyhton_tellonym_api_PatchByte.egg-info/dependency_links.txt
-pyhton_tellonym_api_PatchByte.egg-info/top_level.txt
-tellonym_api/__init__.py
