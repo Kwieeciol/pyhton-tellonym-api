@@ -1,2 +1,0 @@
-import tellonym_api
-
