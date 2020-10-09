@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     desc = fh.read()
 
 setuptools.setup(
-    name="pyhton-tellonym-api-PatchByte", # Replace with your own username
-    version="0.0.1",
+    name="tellonym", # Replace with your own username
+    version="1.0.0",
     author="PatchByte",
     author_email="sorrynoemail@email.com",
     description="A Python tellonym api",
